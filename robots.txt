@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djverzijl.github.io/reference-y6gwso/sitemap.xml
